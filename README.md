@@ -1,3 +1,7 @@
+LINK : https://souvik-3011.github.io/Chat-With-AI/
+DES : A sleek and interactive AI-powered chat website that delivers smart, real-time conversations.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
